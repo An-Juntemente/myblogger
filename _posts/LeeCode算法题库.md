@@ -1,5 +1,14 @@
-# LeeCode算法题库
+---
+layout: post
+title: LeeCode算法题库
+date: 2020-4-1
+Author: Ain
+tags: [Studey,Java,Algorithm]
+comments: true
+---
 
+
+# LeeCode算法题库
 ## 两数相加
 
 #### 方法一 暴力遍历数组
