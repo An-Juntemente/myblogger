@@ -6,9 +6,6 @@ Author: Ain
 tags: [Study, Python, Algorithm]
 comments: true
 ---
-
-
-
 ## 字符串转换整数 
 
 ### 题干
