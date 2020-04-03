@@ -6,9 +6,6 @@ Author: Ain
 tags: [Study, Java, Algorithm]
 comments: true
 ---
-
-# LeeCode算法题库
-
 ## 两数相加
 
 #### 方法一 暴力遍历数组
