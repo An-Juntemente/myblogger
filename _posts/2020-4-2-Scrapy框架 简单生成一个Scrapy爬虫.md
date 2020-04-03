@@ -1,13 +1,13 @@
 ---
 layout: post
-title: LeeCode算法题库
+title: Scrapy框架 简单生成一个Scrapy爬虫
 date: 2020-4-2
 Author: Ain
 tags: [Study, Python, Spider]
 comments: true
 ---
 
-# Scrapy框架 简单生成一个Scrapy爬虫
+
 
 1. ###### 创建一个Scrapy项目
 
