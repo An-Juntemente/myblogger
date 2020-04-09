@@ -18,7 +18,7 @@ comments: true
 
 ​	先贴一下代码
 
-```Java
+```java
 /**
  * Definition for singly-linked list.
  * public class ListNode {
