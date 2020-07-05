@@ -1,3 +1,12 @@
+---
+layout: post
+title: Java笔记 线程
+date: 2020-7-5
+Author: Ain
+tags: [Java,基础]
+comments: true
+---
+
 1.（这部分属于了解）关于线程的调度
 
 ​	1.1 常见的线程调度模型
